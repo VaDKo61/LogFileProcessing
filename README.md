@@ -21,5 +21,6 @@
    
       Примеры запусков:
 
-![img.png](img.png)
-![img_2.png](img_2.png)
+![img.png](screenshots/img.png)
+![img_2.png](screenshots/img_2.png)
+![img.png](screenshots/img_3.png)
