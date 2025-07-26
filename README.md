@@ -14,8 +14,12 @@
         python main.py --file example_log/example1.log example_log/example2.log --report average --date 2025-22-06
 
 
-    Тесты:
+      Тесты:
 1. Запустить test_test.py
 2. Или командой pytest
 
-LogFileProcessing
+   
+      Примеры запусков:
+
+![img.png](img.png)
+![img_2.png](img_2.png)
