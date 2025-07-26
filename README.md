@@ -14,12 +14,14 @@
         python main.py --file example_log/example1.log example_log/example2.log --report average --date 2025-22-06
 
 
-      Тесты:
-1. Запустить test_test.py
-2. Или командой pytest
+   Тесты:
+
+      Запустить test_test.py
+
+      Или командой pytest
 
    
-      Примеры запусков:
+   Примеры запусков:
 
 ![img.png](screenshots/img.png)
 ![img_2.png](screenshots/img_2.png)
